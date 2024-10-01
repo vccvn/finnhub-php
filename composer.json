@@ -1,6 +1,6 @@
 {
     "name": "gomee/finnhub",
-    "version": "1.1.18",
+    "version": "1.1.19",
     "description": "Official Finnhub stock API PHP library. https://finnhub.io/",
     "keywords": [
         "openapitools",
